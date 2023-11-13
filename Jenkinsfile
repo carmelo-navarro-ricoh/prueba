@@ -1,1 +1,3 @@
-Jenkinsfile
+triggers {
+  githubPush()
+}
