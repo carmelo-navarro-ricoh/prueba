@@ -1,3 +1,1 @@
-triggers {
-  githubPush()
-}
+echo "hola"
